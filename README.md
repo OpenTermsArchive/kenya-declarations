@@ -1,6 +1,6 @@
 # Declarations of terms tracked in the *kenya* collection
 
-The terms in this collection are declared by _ _ _ _ _ ✍️ and tracked using [Open Terms Archive](https://opentermsarchive.org).
+The terms in this collection are declared by [Clifford Ouma](https://github.com/Cli4d) and tracked using [Open Terms Archive](https://opentermsarchive.org).
 
 You can [explore the tracked versions](https://github.com/OpenTermsArchive/kenya-versions) interactively or [download them as a dataset](https://github.com/OpenTermsArchive/kenya-versions/releases) in the `OpenTermsArchive/kenya-versions` repository.
 
@@ -8,9 +8,9 @@ You can [explore the tracked versions](https://github.com/OpenTermsArchive/kenya
 
 The terms you will find in this collection match the following scope:
 
-- **Topic:** _ _ _ _ _ ✍️
-- **Jurisdictions:** _ _ _ _ _ ✍️
-- **Languages:** _ _ _ _ _ ✍️
+- **Topic:** Largest digital services used in Kenya
+- **Jurisdictions:** Kenya
+- **Languages:** English
 
 - - -
 
