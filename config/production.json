@@ -1,15 +1,15 @@
 {
-  "name": "demo",
+  "name": "kenya",
   "services": {
-    "repository": "https://github.com/OpenTermsArchive/demo-declarations.git",
+    "repository": "https://github.com/OpenTermsArchive/kenya-declarations.git",
     "declarationsPath": "./declarations"
   },
   "recorder": {
     "versions": {
       "storage": {
         "git": {
-          "snapshotIdentiferTemplate": "https://github.com/OpenTermsArchive/demo-snapshots/commit/%SNAPSHOT_ID",
-          "repository": "git@github.com:OpenTermsArchive/demo-versions.git",
+          "snapshotIdentiferTemplate": "https://github.com/OpenTermsArchive/kenya-snapshots/commit/%SNAPSHOT_ID",
+          "repository": "git@github.com:OpenTermsArchive/kenya-versions.git",
           "path": "./data/versions"
         }
       }
@@ -17,7 +17,7 @@
     "snapshots": {
       "storage": {
         "git": {
-          "repository": "git@github.com:OpenTermsArchive/demo-snapshots.git",
+          "repository": "git@github.com:OpenTermsArchive/kenya-snapshots.git",
           "path": "./data/snapshots"
         }
       }
@@ -35,15 +35,15 @@
   "reporter": {
     "githubIssues": {
       "repositories": {
-        "declarations": "OpenTermsArchive/demo-declarations",
-        "versions": "OpenTermsArchive/demo-versions",
-        "snapshots": "OpenTermsArchive/demo-snapshots"
+        "declarations": "OpenTermsArchive/kenya-declarations",
+        "versions": "OpenTermsArchive/kenya-versions",
+        "snapshots": "OpenTermsArchive/kenya-snapshots"
       }
     }
   },
   "dataset": {
-    "title": "demo",
-    "versionsRepositoryURL": "https://github.com/OpenTermsArchive/demo-versions"
+    "title": "kenya",
+    "versionsRepositoryURL": "https://github.com/OpenTermsArchive/kenya-versions"
   },
   "api": {
     "port": 3000
