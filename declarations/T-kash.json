@@ -1,0 +1,16 @@
+{
+  "name": "T-kash",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://telkom.co.ke/t-kash-terms-and-conditions/",
+      "select": [
+        ".elementor-element-c4ffb1f .elementor-background-overlay"
+      ],
+      "remove": [
+        ".elementor-element-8e2f0a3 > .elementor-widget-container",
+        ".elementor-element-e0b546e .elementor-heading-title"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
