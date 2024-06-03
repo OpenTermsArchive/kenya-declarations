@@ -1,0 +1,12 @@
+{
+  "name": "T-kash",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://telkom.co.ke/t-kash-terms-and-conditions/",
+      "select": [
+        ".elementor-element-e0b546e .elementor-heading-title",
+        ".elementor-element-8e2f0a3 > .elementor-widget-container"
+      ]
+    }
+  }
+}
