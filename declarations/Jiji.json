@@ -1,0 +1,12 @@
+{
+  "name": "Jiji",
+  "documents": {
+    "Privacy Policy": {
+      "fetch": "https://jiji.co.ke/privacy.html",
+      "select": [
+        ".h-mv-20"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
