@@ -4,7 +4,7 @@
     "Terms of Service": {
       "fetch": "https://telkom.co.ke/t-kash-terms-and-conditions/",
       "select": [
-        ".elementor-element-c4ffb1f .elementor-background-overlay"
+        "#content > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-62debe2.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default > div > div > div"
       ]
      },
     "Privacy Policy": {
