@@ -6,7 +6,7 @@
       "select": [
         "#content > div > section.elementor-section.elementor-top-section.elementor-element.elementor-element-62debe2.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default > div > div > div"
       ]
-     },
+    },
     "Privacy Policy": {
       "fetch": "https://telkom.co.ke/t-kash-terms-and-conditions/",
       "select": [
