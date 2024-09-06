@@ -6,7 +6,7 @@
       "select": [
         ".h-mv-20"
       ],
-      "executeClientScripts": true 
+      "executeClientScripts": true
     }
   }
 }
