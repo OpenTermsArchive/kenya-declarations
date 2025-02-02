@@ -1,0 +1,12 @@
+{
+  "name": "TUKO NEWS",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.tuko.co.ke/terms-and-conditions/",
+      "select": [
+        ".static-page__body"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
