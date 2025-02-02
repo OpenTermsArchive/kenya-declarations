@@ -1,0 +1,11 @@
+{
+  "name": "SLING MONEY",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://sling.money/legal/terms-of-service",
+      "select": [
+        ".framer-1s6u3nd"
+      ]
+    }
+  }
+}
