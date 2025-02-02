@@ -1,0 +1,14 @@
+{
+  "name": "Bolt",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://bolt.eu/en/legal/terms-for-riders/#:~:text=Using%20the%20Bolt%20app&text=Bolt%20is%20not%20responsible%20in,between%20the%20passengers%20and%20drivers.",
+      "select": [
+        ".v27xap0"
+      ],
+      "remove": [
+        ".EditorTheme__paragraph:nth-child(52) > span"
+      ]
+    }
+  }
+}
