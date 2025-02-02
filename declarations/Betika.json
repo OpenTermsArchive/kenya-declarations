@@ -1,0 +1,18 @@
+{
+  "name": "Betika",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.betika.com/et/lite/terms?ck=1",
+      "select": [
+        ".full-width > tbody > tr > td"
+      ],
+      "remove": [
+        ".nav-big",
+        ".loggedout",
+        "#footer",
+        "#contacts td",
+        ".brand > tbody > tr:nth-child(2) > td"
+      ]
+    }
+  }
+}
