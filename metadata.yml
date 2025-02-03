@@ -34,8 +34,7 @@ governance:
     roles: [curator, maintainer]
 i18n:
   fr: 
-    name: Démo
-    tagline: Largest digital services used in Kenya
+    tagline: Principaux services numériques utilisés au Kenya
     description: |
       La collection **Kenya** suit les conditions d'utilisation des services les plus utilisés au Kenya en langue anglaise.
   
