@@ -14,7 +14,7 @@ logo: https://opentermsarchive.org/images/collections/kenya.png
 languages: [en]
 jurisdictions: [KE]
 trackingPeriods:
-  - startDate: 2023-04-23
+  - startDate: 2024-03-28
     schedule: "30 */12 * * *"
     serverLocation: Nairobi, KE
 governance:
