@@ -16,7 +16,7 @@ jurisdictions: [KE]
 trackingPeriods:
   - startDate: 2023-04-23
     schedule: "30 */12 * * *"
-    serverLocation: Roubaix, FR
+    serverLocation: Nairobi, KE
 governance:
   Clifford Ouma:
     url: https://www.linkedin.com/in/clifford-ochieng/
