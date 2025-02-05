@@ -1,7 +1,7 @@
 {
   "name": "iTax",
   "documents": {
-    "undefined": {
+    "Terms of Service": {
       "fetch": "https://www.kra.go.ke/images/Corporate_Website_Terms_Conditions.pdf"
     }
   }
