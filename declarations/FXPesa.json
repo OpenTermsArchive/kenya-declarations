@@ -1,0 +1,8 @@
+{
+  "name": "FXPesa",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://eq-cdn.equiti-me.com/website/documents/FXPesa_powered_by_Equiti-_Terms_and_Conditions_EN_19_Aug.pdf"
+    }
+  }
+}
