@@ -1,0 +1,11 @@
+{
+  "name": "Bima Rahisi",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.bimarahisi.com/terms-conditions",
+      "select": [
+        ".blog-page"
+      ]
+    }
+  }
+}
