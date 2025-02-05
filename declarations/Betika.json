@@ -1,0 +1,11 @@
+{
+  "name": "Betika",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.ke.sportpesa.com/terms_and_conditions",
+      "select": [
+        ".text-content"
+      ]
+    }
+  }
+}
