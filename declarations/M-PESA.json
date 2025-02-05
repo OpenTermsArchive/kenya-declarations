@@ -1,0 +1,15 @@
+{
+  "name": "M-PESA",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.safaricom.co.ke/media-center-landing/terms-and-conditions/m-pesa-customer-terms-conditions",
+      "select": [
+        ".content-section"
+      ],
+      "remove": [
+        ".card-body"
+      ],
+      "executeClientScripts": true
+    }
+  }
+}
