@@ -1,0 +1,11 @@
+{
+  "name": "Wasili Kenya Safaris",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://www.wasilikenyasafaris.com/index.php/gallery-2/general-information/terms-conditions#:~:text=Booking%20%26%20Payment%20Terms,days%20prior%20to%20safari%20commencement.",
+      "select": [
+        "#sp-main-body"
+      ]
+    }
+  }
+}
