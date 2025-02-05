@@ -1,0 +1,14 @@
+{
+  "name": "GlovoApp Kenya",
+  "documents": {
+    "Terms of Service": {
+      "fetch": "https://glovoapp.com/docs/en/legal/terms/?country=ke",
+      "select": [
+        "#legal_content_1"
+      ],
+      "remove": [
+        "#country-selector"
+      ]
+    }
+  }
+}
