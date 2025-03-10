@@ -1,6 +1,6 @@
 {
   "name": "Gotv",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.multichoice.com/media/2140/gotv-subscriber-terms-and-conditions-kenya.pdf"
     }

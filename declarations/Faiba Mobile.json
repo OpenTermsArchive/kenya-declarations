@@ -1,6 +1,6 @@
 {
   "name": "Faiba Mobile",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://jtl.co.ke/themes/jtl/assets/docs/mobile-terms.pdf"
     }

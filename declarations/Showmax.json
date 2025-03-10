@@ -1,6 +1,6 @@
 {
   "name": "Showmax",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://stories.showmax.com/ke/terms-of-use",
       "select": [

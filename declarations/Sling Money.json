@@ -1,6 +1,6 @@
 {
   "name": "Sling Money",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://sling.money/legal/terms-of-service",
       "select": [

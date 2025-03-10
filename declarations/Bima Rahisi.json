@@ -1,6 +1,6 @@
 {
   "name": "Bima Rahisi",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://www.bimarahisi.com/terms-conditions",
       "select": [

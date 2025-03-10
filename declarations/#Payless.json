@@ -1,6 +1,6 @@
 {
   "name": "#Payless",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://payless.africa/terms-and-conditions",
       "select": [

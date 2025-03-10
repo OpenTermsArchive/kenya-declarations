@@ -1,6 +1,6 @@
 {
   "name": "T-kash",
-  "documents": {
+  "terms": {
     "Terms of Service": {
       "fetch": "https://telkom.co.ke/t-kash-terms-and-conditions/",
       "select": [
