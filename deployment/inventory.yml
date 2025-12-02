@@ -1,6 +1,6 @@
 all:
   hosts:
     102.68.86.60:
-      ansible_user: debian
+      ansible_user: ota
       ed25519_fingerprint: AAAAC3NzaC1lZDI1NTE5AAAAINnSDBBNBbvx6kDqFkn9o/oRMcIe1R5i0JNN+2TwQwlj
       ota_source_repository: https://github.com/OpenTermsArchive/kenya-declarations.git
